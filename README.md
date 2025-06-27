@@ -1,4 +1,3 @@
-NEW_FILE_CODE
 # Rest API Demo for API Testing
 
 这是一个基于 Spring Boot 的简单 REST API 示例项目，用于演示如何构建和测试基本的 API 接口。
